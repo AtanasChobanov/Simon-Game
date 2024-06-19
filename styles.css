@@ -67,6 +67,7 @@ body {
   #level-title {
     display: flex;
     height: 30vh;
+    text-align: center;
     justify-content: center;
     align-items: center;
     font-size: 2rem;
